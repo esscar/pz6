@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\study\labs\ЧМ\ПЗ6\Project1\main.cpp(22,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\labs\ЧМ\ПЗ6\Project1\main.cpp(34,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\labs\ЧМ\ПЗ6\Project1\main.cpp(47,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\labs\ЧМ\ПЗ6\Project1\main.cpp(70,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project1.vcxproj -> D:\study\labs\ЧМ\ПЗ6\Project1\x64\Debug\Project1.exe
